@@ -28,4 +28,4 @@ Once available, you'll be able to ask your AI assistant things like:
 
 SchoolDigger provides data on **130,000+ U.S. public, charter, and private schools** and **18,500+ districts** — including test scores, rankings, demographics, finance, and more. Since 2006, trusted by Harvard, Century 21, IXL, Coldwell Banker, and others.
 
-**Base URL:** `https://api.schooldigger.com/v2.4`
+**Base URL:** `https://api.schooldigger.com/v3.1`
